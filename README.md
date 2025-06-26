@@ -27,8 +27,8 @@ Demonstrar como manter visibilidade, controle e resposta proativa sobre eventos 
 - [Alertas do Azure Monitor](https://learn.microsoft.com/pt-br/azure/azure-monitor/alerts/alerts-overview)
 
 ## 🖼️ Imagens
-- ![Alert setup no Azure Monitor](./images/alert-setup.png)
-- ![Tela de métricas no Azure Monitor](./images/log-alert-rule-multiple-dimensions.png)
-- ![Criação de alertas via Activity Log / Log Analytics](./images/log-alert-rule.png)
-- ![Visão geral dos alertas do Azure Monitor](./images/alerts.png)
+- ![Alert setup no Azure Monitor](./imagens/alert-setup.png)
+- ![Tela de métricas no Azure Monitor](./imagens/log-alert-rule-multiple-dimensions.png)
+- ![Criação de alertas via Activity Log / Log Analytics](./imagens/log-alert-rule.png)
+- ![Visão geral dos alertas do Azure Monitor](./imagens/alerts.png)
 
